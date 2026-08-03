@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ok515.github.io/Tech_Hub/sitemap.xml
