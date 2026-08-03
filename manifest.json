@@ -1,0 +1,21 @@
+{
+  "short_name": "Tech Hub",
+  "name": "Tech Hub Magazine 2026",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#080a10",
+  "theme_color": "#00f0ff",
+  "display": "standalone",
+  "orientation": "portrait"
+}
