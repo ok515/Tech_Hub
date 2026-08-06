@@ -3,22 +3,30 @@
 
   <url>
     <loc>https://ok515.github.io/Tech_Hub/</loc>
-    <lastmod>2026-08-03</lastmod>
+    <lastmod>2026-08-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
     <loc>https://ok515.github.io/Tech_Hub/ai-search-vs-google.html</loc>
-    <lastmod>2026-08-03</lastmod>
+    <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
-<url>
-<loc>https://ok515.github.io/Tech_Hub/ai-search-vs-google-en.html</loc>
-<lastmod>2026-08-03</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.9</priority>
-</url>
+  <url>
+    <loc>https://ok515.github.io/Tech_Hub/ai-search-vs-google-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://ok515.github.io/Tech_Hub/artificial-intelligence-modern-warfare.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
 </urlset>
