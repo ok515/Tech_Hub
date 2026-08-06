@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
     setContent {
       MyApplicationTheme {
         Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-          TechHubWebView(modifier = Modifier.fillMaxSize())
+          LoopNestWebView(modifier = Modifier.fillMaxSize())
         }
       }
     }
@@ -29,7 +29,7 @@ class MainActivity : ComponentActivity() {
 }
 
 @Composable
-fun TechHubWebView(modifier: Modifier = Modifier) {
+fun LoopNestWebView(modifier: Modifier = Modifier) {
   AndroidView(
     modifier = modifier,
     factory = { context ->
