@@ -1,5 +1,5 @@
 {
-  "name": "Tech Hub",
+  "name": "LoopNest",
   "description": "2026 Futuristic Glassmorphism Technology Magazine",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]

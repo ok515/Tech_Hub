@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "Tech Hub"
+rootProject.name = "LoopNest"
 
 include(":app")
