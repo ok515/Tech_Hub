@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ok515.github.io/LoopNest/sitemap.xml
+Sitemap: https://ok515.github.io/Loopnest/sitemap.xml
